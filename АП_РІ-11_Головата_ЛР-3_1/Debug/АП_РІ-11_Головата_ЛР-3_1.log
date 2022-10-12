@@ -1,0 +1,21 @@
+﻿  Lab_03_01.cpp
+C:\Users\Acer\source\repos\AP_Lab_03_1\АП_РІ-11_Головата_ЛР-3_1\Lab_03_01.cpp(28,19): error C2563:  mismatch in formal parameter list
+C:\Users\Acer\source\repos\AP_Lab_03_1\АП_РІ-11_Головата_ЛР-3_1\Lab_03_01.cpp(28,19): error C2568:  '/': unable to resolve function overload
+C:\Users\Acer\source\repos\AP_Lab_03_1\АП_РІ-11_Головата_ЛР-3_1\Lab_03_01.cpp(28,19): message :  could be 'double tan(_Ty)'
+C:\Users\Acer\source\repos\AP_Lab_03_1\АП_РІ-11_Головата_ЛР-3_1\Lab_03_01.cpp(28,19): message :  or       'long double tan(long double) noexcept'
+C:\Users\Acer\source\repos\AP_Lab_03_1\АП_РІ-11_Головата_ЛР-3_1\Lab_03_01.cpp(28,19): message :  or       'float tan(float) noexcept'
+C:\Users\Acer\source\repos\AP_Lab_03_1\АП_РІ-11_Головата_ЛР-3_1\Lab_03_01.cpp(28,19): message :  or       'double tan(double)'
+C:\Users\Acer\source\repos\AP_Lab_03_1\АП_РІ-11_Головата_ЛР-3_1\Lab_03_01.cpp(28,19): message :  or       'double tan(double)'
+C:\Users\Acer\source\repos\AP_Lab_03_1\АП_РІ-11_Головата_ЛР-3_1\Lab_03_01.cpp(28,19): message :  or       'float tan(float) noexcept'
+C:\Users\Acer\source\repos\AP_Lab_03_1\АП_РІ-11_Головата_ЛР-3_1\Lab_03_01.cpp(28,19): message :  or       'long double tan(long double) noexcept'
+C:\Users\Acer\source\repos\AP_Lab_03_1\АП_РІ-11_Головата_ЛР-3_1\Lab_03_01.cpp(28,19): message :  or       'double tan(_Ty)'
+C:\Users\Acer\source\repos\AP_Lab_03_1\АП_РІ-11_Головата_ЛР-3_1\Lab_03_01.cpp(41,17): error C2563:  mismatch in formal parameter list
+C:\Users\Acer\source\repos\AP_Lab_03_1\АП_РІ-11_Головата_ЛР-3_1\Lab_03_01.cpp(41,17): error C2568:  '/': unable to resolve function overload
+C:\Users\Acer\source\repos\AP_Lab_03_1\АП_РІ-11_Головата_ЛР-3_1\Lab_03_01.cpp(41,17): message :  could be 'double tan(_Ty)'
+C:\Users\Acer\source\repos\AP_Lab_03_1\АП_РІ-11_Головата_ЛР-3_1\Lab_03_01.cpp(41,17): message :  or       'long double tan(long double) noexcept'
+C:\Users\Acer\source\repos\AP_Lab_03_1\АП_РІ-11_Головата_ЛР-3_1\Lab_03_01.cpp(41,17): message :  or       'float tan(float) noexcept'
+C:\Users\Acer\source\repos\AP_Lab_03_1\АП_РІ-11_Головата_ЛР-3_1\Lab_03_01.cpp(41,17): message :  or       'double tan(double)'
+C:\Users\Acer\source\repos\AP_Lab_03_1\АП_РІ-11_Головата_ЛР-3_1\Lab_03_01.cpp(41,17): message :  or       'double tan(double)'
+C:\Users\Acer\source\repos\AP_Lab_03_1\АП_РІ-11_Головата_ЛР-3_1\Lab_03_01.cpp(41,17): message :  or       'float tan(float) noexcept'
+C:\Users\Acer\source\repos\AP_Lab_03_1\АП_РІ-11_Головата_ЛР-3_1\Lab_03_01.cpp(41,17): message :  or       'long double tan(long double) noexcept'
+C:\Users\Acer\source\repos\AP_Lab_03_1\АП_РІ-11_Головата_ЛР-3_1\Lab_03_01.cpp(41,17): message :  or       'double tan(_Ty)'
